@@ -1,0 +1,10 @@
+@import "./layout.css";
+@import "./sidebar.css";
+@import "./topbar.css";
+@import "./dashboard.css";
+
+body{
+    margin:0;
+    background:#f3f4f6;
+    font-family:Arial, Helvetica, sans-serif;
+}
